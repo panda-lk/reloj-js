@@ -1,0 +1,42 @@
+/* css-reloj */
+
+/* css-body */
+#body{
+
+  background: rgb(62, 30, 126);
+
+}
+
+/* img-icon */
+
+#img-icon{
+
+  margin: 15px;
+  height: 55px;
+  width: 55px;
+  top:0px;
+  position: absolute;
+
+}
+
+/* css-sec-reloj */
+
+#sec-reloj{
+
+  height: 30px;
+  width: 250px;
+  padding: 40px; 
+  margin:200px 350px 0px;
+  background: #fff;
+  border-radius: 5px;
+
+}
+
+.p-reloj{
+
+  font-size: 2.0em;
+  font-style: italic;
+  display: inline;
+  margin-left:5px ;
+
+}
